@@ -1,2 +1,2 @@
-# javascript
-It is all About my javascript
+# javascript-projects
+Collection of JavaScript projects including web apps, utilities, and interactive UI components.
